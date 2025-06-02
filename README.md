@@ -41,4 +41,4 @@ The project has won **third place in the Google Gemma Large Model Hackathon Deve
 微信/WeChat：ZY1031389703    
 QQ：1031389703     
 电话/telephone：13040845003    
-QQ邮箱/QQ Mail：1031389703@qq.com, hintonzhang50@gmail.com     
+邮箱/Mail：1031389703@qq.com, hintonzhang50@gmail.com     
